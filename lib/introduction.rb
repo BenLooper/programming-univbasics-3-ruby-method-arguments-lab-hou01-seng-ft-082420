@@ -15,4 +15,4 @@ def hey(name='...you!')
   puts "Hey "+name
 end
 
-hey('nathan')
+hey
